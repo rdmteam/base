@@ -1,7 +1,7 @@
 {
   "name": "ytmp",
   "version": "0.0.1",
-  "author": "redmobile <mobile@redduck.com>",
+  "author": "rdmteam <mobile@redduck.com>",
   "license": "ISC",
   "dependencies": {
     "mongodb": "^1.4.7",
